@@ -1,1 +1,1 @@
-print("hello mica")
+print("my name is agam im from k.mlahi)
